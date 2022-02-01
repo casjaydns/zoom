@@ -1,4 +1,5 @@
 # Disable reminder in prompt
 ignoredirmessage
 
-node_modules
+node_modules# ignore commit message
+.gitcommit
